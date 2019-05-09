@@ -1,21 +1,21 @@
 {
-  "name": "benny-hill",
-  "version": "1.3.0",
-  "description": "Play the Benny Hill theme while running another command",
+  "name": "cye",
+  "version": "1.0.0",
+  "description": "Play the Curb your Enthusiasm theme while running another command",
   "bin": {
-    "benny-hill": "./bin.js"
+    "cye": "./bin.js"
   },
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/benny-hill.git"
+    "url": "https://github.com/ctrlplusb/cye.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "Sean Matheson (@ctrlplusb)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/benny-hill/issues"
+    "url": "https://github.com/ctrlplusb/cye/issues"
   },
-  "homepage": "https://github.com/mafintosh/benny-hill"
+  "homepage": "https://github.com/ctrlplusb/cye"
 }

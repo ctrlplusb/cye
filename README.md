@@ -1,14 +1,31 @@
-# benny-hill
+# cye
 
-Play the Benny Hill theme while running another command
+Play the Curb your Enthusiasm theme while running another command
+
+## via npx
 
 ```
-npm install -g benny-hill
+npx cye # just play
+npx cye sleep 10 # play for 10 s
+npx cye make # when compiling
+npx cye npm install -g dat # installing node modules
+```
 
-benny-hill # just play benny hill
-benny-hill sleep 10 # play for 10 s
-benny-hill make # when compiling
-benny-hill npm install -g dat # installing node modules
+## via npm install
+
+First install the package
+
+```
+npm install -g cye
+```
+
+Then execute
+
+```
+cye # just play
+cye sleep 10 # play for 10 s
+cye make # when compiling
+cye npm install -g dat # installing node modules
 ```
 
 ## Linux users
