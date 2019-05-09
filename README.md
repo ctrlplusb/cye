@@ -4,7 +4,7 @@ Play the Curb your Enthusiasm theme while running another command
 
 ## via npx
 
-```
+```bash
 npx cye # just play
 npx cye sleep 10 # play for 10 s
 npx cye make # when compiling
@@ -21,7 +21,7 @@ npm install -g cye
 
 Then execute
 
-```
+```bash
 cye # just play
 cye sleep 10 # play for 10 s
 cye make # when compiling
@@ -32,7 +32,7 @@ cye npm install -g dat # installing node modules
 
 Make sure to install the following dependencies first if you are on linux
 
-```
+```bash
 sudo apt-get install sox libsox-fmt-mp3
 ```
 
