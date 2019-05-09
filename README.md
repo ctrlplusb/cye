@@ -1,6 +1,6 @@
 # cye
 
-Play the Curb your Enthusiasm theme while running another command
+Play the "Curb your Enthusiasm" theme while running another command
 
 ## via npx
 
